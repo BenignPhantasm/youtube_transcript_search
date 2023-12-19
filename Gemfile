@@ -6,6 +6,7 @@ ruby "3.2.2"
 gem "rails", "~> 7.1.2"
 
 gem "pg", "~> 1.5.4"
+gem "google-apis-youtube_v3", "~> 0.4.0"
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
