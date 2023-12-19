@@ -14,6 +14,7 @@ development:
   password: password
   database: transcript_search_development_database
 
+# IGNORE THESE FOR NOW
 # test:
 #   <<: *default
 #   username: <%= ENV['DB_USERNAME'] %>
