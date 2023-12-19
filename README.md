@@ -23,6 +23,10 @@ That comand takes you to a postgres session where you will then run:
 ```SQL
 CREATE ROLE transcript_search_dev WITH LOGIN PASSWORD 'password';
 ALTER ROLE transcript_search_dev CREATEDB;
+ALTER ROLE transcript_search_dev CREATEROLE;
+ALTER ROLE transcript_search_dev SUPERUSER;
+ALTER ROLE transcript_search_dev REPLICATION;
+ALTER ROLE transcript_search_dev BYPASSRLS;
 ```
 
 ### Modify permissions for the rails user
@@ -39,6 +43,13 @@ local   all             postgres                                peer
 # TYPE  DATABASE        USER            ADDRESS                 METHOD
 # "local" is for Unix domain socket connections only
 local   all             all                                     trust
+```
+
+### Reset the postgres service
+In order for the postgres service to read the changes to the config, it must be reset.
+
+```
+sudo service postgresql restart
 ```
 
 ### Create the database
