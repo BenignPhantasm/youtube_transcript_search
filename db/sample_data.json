@@ -1,0 +1,1652 @@
+[
+  {
+    "etag": "VU8cMoAE4RXV_ztpYNjUclX_KN4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "wG3UFHR1o48"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this excerpt from the Huberman Lab episode \"How to Breathe Correctly for Optimal Health, Mood, Learning & Performance,\" I ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-11-27T23:29:57.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/wG3UFHR1o48/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/wG3UFHR1o48/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/wG3UFHR1o48/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Stop Hiccups Using a Science-Supported Tool"
+    }
+  },
+  {
+    "etag": "mFHQr4H4a1lhszvBWwbF_rH8JN4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "PZ-GvIOhcf8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Here I describe direct biological connections between our breathing, our brain and our heart rate. This can be used to quickly ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-03-24T13:00:06.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/PZ-GvIOhcf8/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/PZ-GvIOhcf8/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/PZ-GvIOhcf8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Control Stress in Real-Time | Huberman Lab Quantal Clip"
+    }
+  },
+  {
+    "etag": "6l7kenPuAledA_z8Pmqah_dJ7wg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rBdhqBGqiMc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Here, I describe \"Physiological Sighs,\" a pattern of breathing of two inhales followed by an extended exhale. This pattern of ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-04-07T14:00:18.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/rBdhqBGqiMc/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/rBdhqBGqiMc/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/rBdhqBGqiMc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Reduce Anxiety &amp; Stress with the Physiological Sigh | Huberman Lab Quantal Clip"
+    }
+  },
+  {
+    "etag": "vp0K3PEXm30ANWwFlNjeG0GwwWY",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dicP_kA-RA0"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the seventh Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-05-31T12:00:26.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/dicP_kA-RA0/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/dicP_kA-RA0/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/dicP_kA-RA0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #7: Cold Exposure, Maximizing REM Sleep &amp; My Next Scientific Studies"
+    }
+  },
+  {
+    "etag": "ac-1fBklvfOKiSep6tfrO6xvXa0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cp9GXl9Qk_s"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the fifth Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-03-24T12:00:22.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/cp9GXl9Qk_s/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/cp9GXl9Qk_s/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/cp9GXl9Qk_s/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #5: Intrusive Thoughts, CGMs, Behavioral Change, Naps &amp; NSDR"
+    }
+  },
+  {
+    "etag": "OMstAw9n764gs0jEEQPfSHVhxm0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xTtM2AvCRyA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the 13th Ask Me Anything (AMA) episode, part of Huberman Lab Premium. Huberman Lab Premium was ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-11-30T13:00:52.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/xTtM2AvCRyA/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/xTtM2AvCRyA/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/xTtM2AvCRyA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #13: Winter Months &amp; Sickness, Wim Hof Breathing &amp; Stressors"
+    }
+  },
+  {
+    "etag": "Zf1IIRCct-eF6u9sKAPSUiCZlp0",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FE0lTEUa7EY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the eighth Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-06-23T17:00:16.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/FE0lTEUa7EY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/FE0lTEUa7EY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/FE0lTEUa7EY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #8: Balancing Caffeine, Decision Fatigue &amp; Social Isolation"
+    }
+  },
+  {
+    "etag": "kyFfH5QL2DlzpIdMuFFtPy7jA_I",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "VQLU7gpk_X8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode I discuss endurance: our ability to perform effort over extended amounts of time. I describe the four kinds of ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-06-07T12:00:11.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/VQLU7gpk_X8/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/VQLU7gpk_X8/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/VQLU7gpk_X8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How To Build Endurance In Your Brain &amp; Body"
+    }
+  },
+  {
+    "etag": "t38coYQ9Y40ViRehKIpxR0QWK68",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "p3JLaF_4Tz8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode I interview Dr. Anna Lembke, MD, Chief of the Stanford Addiction Medicine Dual Diagnosis Clinic at Stanford ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-08-16T12:00:26.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/p3JLaF_4Tz8/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/p3JLaF_4Tz8/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/p3JLaF_4Tz8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Anna Lembke: Understanding &amp; Treating Addiction | Huberman Lab Podcast #33"
+    }
+  },
+  {
+    "etag": "i9s-6fPuXLVUYPfqbis-ZaxnUtU",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "H-XfCl-HpRM"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Today's episode provides an introduction to how the nervous system works to create sensations, perceptions, emotions, thoughts ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-01-04T16:00:44.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/H-XfCl-HpRM/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/H-XfCl-HpRM/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/H-XfCl-HpRM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How Your Nervous System Works &amp; Changes"
+    }
+  },
+  {
+    "etag": "NSGf_9a8ONCXdK41S7LcndWKWfs",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FeRgqJVALMQ"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, my guest is Dr. Lisa Feldman Barrett, Ph.D., a Distinguished Professor of Psychology at Northeastern University ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-10-16T12:00:20.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/FeRgqJVALMQ/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/FeRgqJVALMQ/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/FeRgqJVALMQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Lisa Feldman Barrett: How to Understand Emotions | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "JsLw1k7A-B8ORpI4yhzM1KHEk2U",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LRM5LutB538"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Recently I had the pleasure of hosting a live event in Chicago, IL. This event was part of a lecture series called The Brain Body ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-12-13T13:00:25.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/LRM5LutB538/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/LRM5LutB538/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/LRM5LutB538/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LIVE EVENT Q&amp;A: Dr. Andrew Huberman Question &amp; Answer in Chicago, IL"
+    }
+  },
+  {
+    "etag": "GNApqDlNHDlHjudEiw5vOA4CS2M",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ouCWNRvPk20"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest this episode is Dr. Justin Sonnenburg, Professor of Microbiology & Immunology at Stanford University. Dr. Sonnenburg's ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-03-07T13:00:23.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ouCWNRvPk20/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ouCWNRvPk20/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ouCWNRvPk20/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Justin Sonnenburg: How to Build, Maintain &amp; Repair Gut Health | Huberman Lab Podcast #62"
+    }
+  },
+  {
+    "etag": "hhv0r8qA8wWxa4zDDa6oiJk280s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "HoH93judXmE"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the ninth Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-07-28T12:00:14.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/HoH93judXmE/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/HoH93judXmE/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/HoH93judXmE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #9: Kratom Risks, Does Infrared Sauna Work &amp; Journaling Benefits"
+    }
+  },
+  {
+    "etag": "uUheGgITETq7t96BQTK5hJhjf58",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eJU6Df_ffAE"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the 10th Ask Me Anything (AMA) episode, part of Huberman Lab Premium. The Huberman Lab Premium ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-08-30T12:00:36.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/eJU6Df_ffAE/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/eJU6Df_ffAE/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/eJU6Df_ffAE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #10: Benefits of Nature &amp; “Grounding,&quot; Hearing Loss Research &amp; Avoiding Altitude Sickness"
+    }
+  },
+  {
+    "etag": "5SKIr2xtITU3JOrTJkSwsYBlzQo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "W5zqC5cYcS0"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In a recent Huberman Lab episode, my guest was Chris Voss, a former FBI hostage negotiator. During the episode, we discuss ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-11-14T21:36:41.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/W5zqC5cYcS0/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/W5zqC5cYcS0/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/W5zqC5cYcS0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How Tone of Voice Shapes Emotional State of Listeners"
+    }
+  },
+  {
+    "etag": "3VN11QoBiNc-Q6ibghc_DA53ZtE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "qJ3uV7coZbA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the 12th Ask Me Anything (AMA) episode, part of Huberman Lab Premium. The Huberman Lab Premium ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-10-31T18:00:33.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/qJ3uV7coZbA/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/qJ3uV7coZbA/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/qJ3uV7coZbA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #12: Thoughts on Longevity Supplements (Resveratrol, NR, NMN, Etc.) &amp; How to Improve Memory"
+    }
+  },
+  {
+    "etag": "8Y2Y-NmFeSUOZunCOiX7BddYLkQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "099hgtRoUZw"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest is Dr. Wendy Suzuki, Ph.D., Professor of Neural Science and Psychology and (soon) Dean of New York University, ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-05-23T12:00:01.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/099hgtRoUZw/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/099hgtRoUZw/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/099hgtRoUZw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Wendy Suzuki: Boost Attention &amp; Memory with Science-Based Tools | Huberman Lab Podcast #73"
+    }
+  },
+  {
+    "etag": "iNLh2gXe3NX9IWUJzikUjEK2B0E",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "lsODSDmY4CY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the first Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-11-02T15:15:02.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/lsODSDmY4CY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/lsODSDmY4CY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/lsODSDmY4CY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #1: Leveraging Ultradian Cycles, How to Protect Your Brain, Seed Oils Examined and More"
+    }
+  },
+  {
+    "etag": "GVmWdug4Tj06_EWLXncURjlZRhQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "LG53Vxum0as"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode introduces neuroplasticity—which is how our brain and nervous system learn and acquire new capabilities.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-02-08T12:30:01.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/LG53Vxum0as/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/LG53Vxum0as/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/LG53Vxum0as/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Focus to Change Your Brain"
+    }
+  },
+  {
+    "etag": "26fyHThGyY7S8SxbHcArdZlIUO4",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "2Ds1m5gflCI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Recently I had the pleasure of hosting two live events, one in Seattle, WA and one in Portland, OR. These events were part of a ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-08-17T12:00:02.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/2Ds1m5gflCI/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/2Ds1m5gflCI/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/2Ds1m5gflCI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LIVE EVENT Q&amp;A: Dr. Andrew Huberman Question &amp; Answer in Seattle, WA"
+    }
+  },
+  {
+    "etag": "jeMIwqMeMN0E00ofmitgY9k7hxI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "15R2pMqU2ok"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss the profound effect the gut has on the nervous system. I cover the structure and function of the gut-brain ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-02-28T13:00:00.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/15R2pMqU2ok/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/15R2pMqU2ok/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/15R2pMqU2ok/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Enhance Your Gut Microbiome for Brain &amp; Overall Health | Huberman Lab Podcast #61"
+    }
+  },
+  {
+    "etag": "7jNJu8wWn0cpMBOoK2C2c7m_a-A",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "vZ4kOr38JhY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the second Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-12-08T13:00:27.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/vZ4kOr38JhY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/vZ4kOr38JhY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/vZ4kOr38JhY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #2: Improve Sleep, Reduce Sugar Cravings, Optimal Protein Intake, Stretching Frequency &amp; More"
+    }
+  },
+  {
+    "etag": "GjJ6l4BG2c0739eJ21OHIIdptqE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "4b6bwcWK6GE"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to the Huberman Lab podcast. I am Dr. Andrew Huberman. My plan in creating this podcast is to discuss neuroscience: ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2020-12-23T15:00:05.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/4b6bwcWK6GE/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/4b6bwcWK6GE/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/4b6bwcWK6GE/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Welcome to the Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "Rib9a-sNY1e-m5v-CIO9g9kvRBA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "KVjfFN89qvQ"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss the science of gratitude, which has been shown in peer-reviewed studies to have tremendous positive ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-11-22T13:00:07.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/KVjfFN89qvQ/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/KVjfFN89qvQ/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/KVjfFN89qvQ/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "The Science of Gratitude &amp; How to Build a Gratitude Practice | Huberman Lab Podcast #47"
+    }
+  },
+  {
+    "etag": "QGqVkKxYdIkDvLIcOeDnOaf1jio",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ccrbE0QHy94"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, my guest is Dr. Karen Parker, Ph.D., professor of psychiatry and director of the Social Neurosciences Research ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-12-11T13:00:24.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ccrbE0QHy94/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ccrbE0QHy94/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ccrbE0QHy94/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Karen Parker: The Causes &amp; Treatments for Autism"
+    }
+  },
+  {
+    "etag": "bqUDOAEX028fKLUdrBSaaUJu0uo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "CGjdgy0cwGk"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss the causes and treatments of different types of headaches, including tension headaches, migraines, ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-02-06T13:00:15.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/CGjdgy0cwGk/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/CGjdgy0cwGk/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/CGjdgy0cwGk/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Stop Headaches Using Science-Based Approaches | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "Jpmcsgu4xigBUDh0wenaAghNhbc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "poOf8b2WE2g"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode teaches you a lot about the immune system, immune-brain interactions and offers 12 potential tools for enhancing ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-11-01T12:00:26.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/poOf8b2WE2g/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/poOf8b2WE2g/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/poOf8b2WE2g/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Using Your Nervous System to Enhance Your Immune System | Huberman Lab Podcast #44"
+    }
+  },
+  {
+    "etag": "ZHId_kb9w5uUc0o1_Sy2pysoBAM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S8nPJU9xkNw"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the fourth Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-02-24T13:00:16.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/S8nPJU9xkNw/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/S8nPJU9xkNw/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/S8nPJU9xkNw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #4: Maintain Motivation, Improve REM Sleep, Set Goals, Manage Anxiety &amp; More"
+    }
+  },
+  {
+    "etag": "4sHHzoDNT842_LJgNTKrve7tCy8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "dFR_wFN23ZY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest is Dr. Alia Crum, Associate (tenured) Professor of Psychology at Stanford University and Director of the Stanford Mind ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-01-24T13:00:19.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/dFR_wFN23ZY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/dFR_wFN23ZY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/dFR_wFN23ZY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Alia Crum: Science of Mindsets for Health &amp; Performance | Huberman Lab Podcast #56"
+    }
+  },
+  {
+    "etag": "88A0caZzYd8hzhU9VTJtGbQVR-w",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "ulHrUVV3Kq4"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, my guest is Elissa Epel, Ph.D., professor and vice chair of the department of psychiatry at the University of ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-04-03T12:00:41.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/ulHrUVV3Kq4/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/ulHrUVV3Kq4/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/ulHrUVV3Kq4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism &amp; Aging | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "9tHQMe8QTE2rflw-A99ZOIdFQAM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "aQDOU3hPci0"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss how to build and apply a growth mindset — the practice of self-rewarding and focusing on learning and ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-07-17T12:00:02.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/aQDOU3hPci0/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/aQDOU3hPci0/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/aQDOU3hPci0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Enhance Performance &amp; Learning by Applying a Growth Mindset | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "IjNhxdYCtNsb5Ey1zlqLUFskTFo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "iMvtHqLmEkI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I talk to Dr. Duncan French, Ph.D., the Vice President of Performance at the UFC Performance Institute and a ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-11-08T13:00:21.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/iMvtHqLmEkI/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/iMvtHqLmEkI/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/iMvtHqLmEkI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Duncan French: How to Exercise for Strength Gains &amp; Hormone Optimization | Huberman Lab #45"
+    }
+  },
+  {
+    "etag": "YXWMDd5zT4OFDnRXG_JE8osMTgk",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "FFwA0QFmpQ4"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode is all about the two major kinds of dreams and the sorts of learning and unlearning they are used for. I discuss ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-02-01T13:00:05.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/FFwA0QFmpQ4/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/FFwA0QFmpQ4/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/FFwA0QFmpQ4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Understanding and Using Dreams to Learn and to Forget"
+    }
+  },
+  {
+    "etag": "uYliySib_rFkJ4d_Jfxp3OTHRRo",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "DkS1pkKpILY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss the physiological effects that drinking alcohol has on the brain and body at different levels of ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-08-22T12:00:08.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/DkS1pkKpILY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/DkS1pkKpILY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/DkS1pkKpILY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "What Alcohol Does to Your Body, Brain &amp; Health | Huberman Lab Podcast #86"
+    }
+  },
+  {
+    "etag": "X9Wt0OLabMUYmBfvYRfZz6pNYYw",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "S8jWFcDGz4Y"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, my guest is Mary Helen Immordino-Yang, EdD, professor of education, psychology and neuroscience at the ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-06-05T12:00:16.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/S8jWFcDGz4Y/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/S8jWFcDGz4Y/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/S8jWFcDGz4Y/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Immordino-Yang: How Emotions &amp; Social Factors Impact Learning | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "TNYDvu8IM521T12ctqc7rIT6GKI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uXs-zPc63kM"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I explain how nicotine impacts the brain and body, including its potent ability to enhance attention, focus, and ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-09-19T12:00:39.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/uXs-zPc63kM/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/uXs-zPc63kM/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/uXs-zPc63kM/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Nicotine’s Effects on the Brain &amp; Body &amp; How to Quit Smoking or Vaping | Huberman Lab Podcast #90"
+    }
+  },
+  {
+    "etag": "3mImOHXlwG0jdqegcHHdWnbmdo8",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xmhsWAqP_0Y"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode I discuss our sense of pain and pleasure: where and how they each arise in our mind and body and various ways to ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-08-09T12:00:23.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/xmhsWAqP_0Y/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/xmhsWAqP_0Y/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/xmhsWAqP_0Y/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Control Your Sense of Pain &amp; Pleasure | Huberman Lab Podcast #32"
+    }
+  },
+  {
+    "etag": "PSfPX_jnAUjqRu_DK_QT9tnrA_g",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Nr5xb-QCBGA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest is Casey Halpern, M.D., Chief of Stereotactic and Functional Neurosurgery and Professor of Neurosurgery at the ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-09-26T12:00:25.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Nr5xb-QCBGA/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Nr5xb-QCBGA/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Nr5xb-QCBGA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Casey Halpern: Biology &amp; Treatments for Compulsive Eating &amp; Behaviors | Huberman Lab Podcast #91"
+    }
+  },
+  {
+    "etag": "teOmYo_TF2liJ1RNVybaho7Ycvc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "rW9QKc-iFoY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode I describe how the organs of the body influence the function and health of our brain and how our brain controls our ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-07-26T12:00:22.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/rW9QKc-iFoY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/rW9QKc-iFoY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/rW9QKc-iFoY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Optimize Your Brain-Body Function &amp; Health | Huberman Lab Podcast #30"
+    }
+  },
+  {
+    "etag": "9za4uhxeA-g4Rq7YddaKmKSG7pI",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "cwakOgHIT0E"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I discuss neuroscience and psychology studies that address the basis of willpower and tenacity, how they differ ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-10-09T12:00:26.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/cwakOgHIT0E/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/cwakOgHIT0E/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/cwakOgHIT0E/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "How to Increase Your Willpower &amp; Tenacity | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "2lXsFHHaS-9rzmXtY_tjaZXVvSE",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "q1Ss8sTbFBY"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "I describe a fitness protocol that maximizes all the major sought-after aspects of physical fitness, including strength, endurance ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-10-17T12:00:37.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/q1Ss8sTbFBY/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/q1Ss8sTbFBY/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/q1Ss8sTbFBY/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Fitness Toolkit: Protocol &amp; Tools to Optimize Physical Health | Huberman Lab Podcast #94"
+    }
+  },
+  {
+    "etag": "aLQSwH6kLr0EJFn0G2VWit1VoCQ",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "Xu1FMCxoEFc"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "This episode, I explain what major depression is at the biological and psychological level and the various treatments that ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-08-23T12:00:11.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/Xu1FMCxoEFc/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/Xu1FMCxoEFc/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/Xu1FMCxoEFc/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Understanding &amp; Conquering Depression | Huberman Lab Podcast #34"
+    }
+  },
+  {
+    "etag": "guMH_Lj93q9RH3QcOx5jhhDFIXM",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "O640yAgq5f8"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest is Kyle Gillett, MD, a dual board-certified physician in family medicine and obesity medicine and an expert in optimizing ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-12-12T13:00:10.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/O640yAgq5f8/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/O640yAgq5f8/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/O640yAgq5f8/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Kyle Gillett: Tools for Hormone Optimization in Males | Huberman Lab Podcast 102"
+    }
+  },
+  {
+    "etag": "1S3la9W4lF4EDycblrog2_WdR0k",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "X8Hw8zeCDTA"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, my guest is Maya Shankar, Ph.D., a cognitive scientist, former senior advisor to the White House and Chair of the ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-07-24T12:00:33.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/X8Hw8zeCDTA/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/X8Hw8zeCDTA/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/X8Hw8zeCDTA/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Maya Shankar: How to Shape Your Identity &amp; Goals | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "GvfuSMmC_77RU_Sn4AKeIjA95Dg",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "uak_dXHh6s4"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Welcome to a preview of the third Ask Me Anything (AMA) episode, part of the Huberman Lab Premium subscription.",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-01-13T13:00:38.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/uak_dXHh6s4/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/uak_dXHh6s4/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/uak_dXHh6s4/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "AMA #3: Adaptogens, Fasting &amp; Fertility, Bluetooth/EMF Risks, Cognitive Load Limits &amp; More"
+    }
+  },
+  {
+    "etag": "9fGPWmwDYMgyrDWPYBv-CAc98iA",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "eC9fiJBdMG0"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "Recently I had the pleasure of hosting a live event in Toronto, ON. This event was part of a lecture series called The Brain Body ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-11-15T13:00:25.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/eC9fiJBdMG0/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/eC9fiJBdMG0/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/eC9fiJBdMG0/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "LIVE EVENT Q&amp;A: Dr. Andrew Huberman Question &amp; Answer in Toronto, ON"
+    }
+  },
+  {
+    "etag": "hBpHpbS71vYd1ToA57v9kOyaU5Q",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "n9IxomBusuw"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "In this episode, I am joined by Dr. David Sinclair, tenured Professor of Genetics at Harvard Medical School and an expert ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2021-12-27T13:00:32.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/n9IxomBusuw/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/n9IxomBusuw/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/n9IxomBusuw/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. David Sinclair: The Biology of Slowing &amp; Reversing Aging | Huberman Lab Podcast #52"
+    }
+  },
+  {
+    "etag": "Qa7NAXFlTCH_Rk8xUPIuEy6SD6s",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "BMTt8gSl13s"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest this episode is Gina Poe, PhD, a professor in the department of integrative biology & physiology at the University of ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2023-02-13T13:00:07.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/BMTt8gSl13s/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/BMTt8gSl13s/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/BMTt8gSl13s/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Gina Poe: Use Sleep to Enhance Learning, Memory &amp; Emotional State | Huberman Lab Podcast"
+    }
+  },
+  {
+    "etag": "wisDR7VH7yGq4Ytd0zOS7Q2p4qc",
+    "id": {
+      "kind": "youtube#video",
+      "videoId": "xjEFo3a1AnI"
+    },
+    "kind": "youtube#searchResult",
+    "snippet": {
+      "channelId": "UC2D2CMWXMOVWx7giW1n3LIg",
+      "channelTitle": "Andrew Huberman",
+      "description": "My guest this episode is Chris Palmer, M.D., a board-certified psychiatrist and assistant professor of psychiatry at Harvard Medical ...",
+      "liveBroadcastContent": "none",
+      "publishedAt": "2022-11-21T13:00:42.000+00:00",
+      "thumbnails": {
+        "default": {
+          "height": 90,
+          "url": "https://i.ytimg.com/vi/xjEFo3a1AnI/default.jpg",
+          "width": 120
+        },
+        "high": {
+          "height": 360,
+          "url": "https://i.ytimg.com/vi/xjEFo3a1AnI/hqdefault.jpg",
+          "width": 480
+        },
+        "medium": {
+          "height": 180,
+          "url": "https://i.ytimg.com/vi/xjEFo3a1AnI/mqdefault.jpg",
+          "width": 320
+        }
+      },
+      "title": "Dr. Chris Palmer: Diet &amp; Nutrition for Mental Health | Huberman Lab Podcast #99"
+    }
+  }
+]
