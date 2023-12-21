@@ -1,5 +1,16 @@
 <div id="searchResults">
-  <!-- Display search results here -->
+  <h1>All Videos</h1>
+
+  <ul>
+    <% @videos.each do |video| %>
+      <li>
+        <strong><%= video.title %></strong>
+        <p>Channel: <%= video.channel %></p>
+        <p>URL: <%= link_to video.url, video.url, target: "_blank" %></p>
+        <p>URL: <%= link_to 'View Details', videos_path(video) %></p>
+      </li>
+    <% end %>
+  </ul>
 </div>
 
 <%= link_to "Return to Home", root_path, class: "btn" %>
