@@ -1,5 +1,5 @@
 class SearchController < ApplicationController
     def index
-      # Your search logic goes here
+      @videos = Video.all
     end
   end
