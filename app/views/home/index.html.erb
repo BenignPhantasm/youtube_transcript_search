@@ -1,0 +1,20 @@
+<div class="container">
+<h2 class="center-align">YouTube Transcript Search</h2>
+
+<%= form_with(url: search_path, method: 'get', remote: true, id: "searchForm") do |form| %>
+  <div class="row">
+    <div class="input-field col s12">
+      <%= form.text_field :query, id: "searchInput", class: "validate", placeholder: "Enter your query" %>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s12">
+      <%= form.submit "Search", class: "btn waves-effect waves-light", id: "searchButton" %>
+              
+    </div>
+  </div>
+<% end %>
+
+<div id="searchResults"></div>
+</div>

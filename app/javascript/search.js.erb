@@ -1,0 +1,10 @@
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementById('searchForm').addEventListener('submit', function(event) {
+    event.preventDefault();
+    document.getElementById('searchResults').innerHTML = '<p>Yeah, I got you.</p>';
+  });
+
+  document.getElementById('searchButton').addEventListener('click', function() {
+    document.getElementById('searchResults').innerHTML = '<p>Yeah, I got you.</p>';
+  });
+});
